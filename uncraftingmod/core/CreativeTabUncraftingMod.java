@@ -15,7 +15,7 @@ public class CreativeTabUncraftingMod extends CreativeTabs {
 
 	@Override
     public ItemStack getIconItemStack() {
-		return new ItemStack(BuildCraftCore.diamondGearItem);
+		return new ItemStack(UncraftingModCore.unCraftingTable);
 	}
 	
 	@Override
